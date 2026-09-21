@@ -1,0 +1,69 @@
+{
+  "chart": {
+    "title": "Average performance of 15-year-old students by subject",
+    "subtitle": "Average scores in mathematics, science, and reading for students aged 15. Assessed through PISA scales, which evaluate children's ability to use mathematical reasoning, understand and engage with texts, and interact with scientific concepts for practical problem-solving, personal development, and informed citizenship.",
+    "citation": "OECD (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/academic-performance?v=1&csvType=full&useColumnShortNames=false&subject=subject_side_by_side&sex=both",
+    "selection": [
+      "Finland",
+      "Singapore",
+      "South Korea",
+      "Canada"
+    ]
+  },
+  "columns": {
+    "Average performance of 15-year-old students in mathematics": {
+      "titleShort": "PISA mathematics scores for all students",
+      "titleLong": "PISA mathematics scores for all students",
+      "descriptionShort": "Assessed through the PISA mathematics scale, which measures how well someone can use math to solve everyday problems and understand the role of math in the real world.",
+      "descriptionKey": "- The Programme for International Student Assessment (PISA) is an international survey that assesses the skills and knowledge of 15-year-old students. It provides a snapshot of how well education systems around the world are preparing young people for adult life.\n- PISA is run every three years and tests students in reading, mathematics, and science. It doesn't just assess what students know — it focuses on how well they can use this knowledge to solve problems they might encounter in the real world. For example, can they interpret a bus timetable, reason through a scientific scenario, or compare prices to make a budget?\n- Each student sits a two-hour computer-based test. Results are summarized as average scores for each country, and are designed to be comparable over time.\n- The scores are standardized to make comparisons easier: across OECD countries, the average score was set to 500 in the first year each subject was assessed (reading in 2000, mathematics in 2003, science in 2006). Most countries score somewhere between 300 and 600, although scores outside this range are possible.\n- Higher scores indicate better performance — but comparing countries should be done carefully. Many factors affect student performance, including income, teacher quality, classroom time, and parental education. Cultural differences can also play a role in how students approach the test.\n- PISA gives policymakers, researchers, and educators a way to evaluate their education systems and learn from others. But as with all such comparisons, it's important to consider the wider context behind the numbers.",
+      "shortUnit": "",
+      "unit": "score",
+      "timespan": "2003-2022",
+      "type": "Numeric",
+      "owidVariableId": 817631,
+      "shortName": "pisa_math_all_average",
+      "lastUpdated": "2023-12-06",
+      "nextUpdate": "2026-10-21",
+      "citationShort": "OECD (2023) – with minor processing by Our World in Data",
+      "citationLong": "OECD (2023) – with minor processing by Our World in Data. “PISA mathematics scores for all students” [dataset]. OECD, “PISA Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/817631.metadata.json"
+    },
+    "Average performance of 15-year-old students in science": {
+      "titleShort": "PISA science scores for all students",
+      "titleLong": "PISA science scores for all students",
+      "descriptionShort": "Assessed through the PISA science scale, which assesses how comfortable and knowledgeable someone is with science topics, focusing on their ability to discuss and think about scientific issues in everyday life.",
+      "descriptionKey": "- The Programme for International Student Assessment (PISA) is an international survey that assesses the skills and knowledge of 15-year-old students. It provides a snapshot of how well education systems around the world are preparing young people for adult life.\n- PISA is run every three years and tests students in reading, mathematics, and science. It doesn't just assess what students know — it focuses on how well they can use this knowledge to solve problems they might encounter in the real world. For example, can they interpret a bus timetable, reason through a scientific scenario, or compare prices to make a budget?\n- Each student sits a two-hour computer-based test. Results are summarized as average scores for each country, and are designed to be comparable over time.\n- The scores are standardized to make comparisons easier: across OECD countries, the average score was set to 500 in the first year each subject was assessed (reading in 2000, mathematics in 2003, science in 2006). Most countries score somewhere between 300 and 600, although scores outside this range are possible.\n- Higher scores indicate better performance — but comparing countries should be done carefully. Many factors affect student performance, including income, teacher quality, classroom time, and parental education. Cultural differences can also play a role in how students approach the test.\n- PISA gives policymakers, researchers, and educators a way to evaluate their education systems and learn from others. But as with all such comparisons, it's important to consider the wider context behind the numbers.",
+      "shortUnit": "",
+      "unit": "score",
+      "timespan": "2006-2022",
+      "type": "Numeric",
+      "owidVariableId": 817632,
+      "shortName": "pisa_science_all_average",
+      "lastUpdated": "2023-12-06",
+      "nextUpdate": "2026-10-21",
+      "citationShort": "OECD (2023) – with minor processing by Our World in Data",
+      "citationLong": "OECD (2023) – with minor processing by Our World in Data. “PISA science scores for all students” [dataset]. OECD, “PISA Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/817632.metadata.json"
+    },
+    "Average performance of 15-year-old students in reading": {
+      "titleShort": "PISA reading scores for all students",
+      "titleLong": "PISA reading scores for all students",
+      "descriptionShort": "Assessed through the PISA reading scale, which measures how well someone can understand and use written information to learn new things and be a part of society.",
+      "descriptionKey": "- The Programme for International Student Assessment (PISA) is an international survey that assesses the skills and knowledge of 15-year-old students. It provides a snapshot of how well education systems around the world are preparing young people for adult life.\n- PISA is run every three years and tests students in reading, mathematics, and science. It doesn't just assess what students know — it focuses on how well they can use this knowledge to solve problems they might encounter in the real world. For example, can they interpret a bus timetable, reason through a scientific scenario, or compare prices to make a budget?\n- Each student sits a two-hour computer-based test. Results are summarized as average scores for each country, and are designed to be comparable over time.\n- The scores are standardized to make comparisons easier: across OECD countries, the average score was set to 500 in the first year each subject was assessed (reading in 2000, mathematics in 2003, science in 2006). Most countries score somewhere between 300 and 600, although scores outside this range are possible.\n- Higher scores indicate better performance — but comparing countries should be done carefully. Many factors affect student performance, including income, teacher quality, classroom time, and parental education. Cultural differences can also play a role in how students approach the test.\n- PISA gives policymakers, researchers, and educators a way to evaluate their education systems and learn from others. But as with all such comparisons, it's important to consider the wider context behind the numbers.",
+      "shortUnit": "",
+      "unit": "score",
+      "timespan": "2000-2022",
+      "type": "Numeric",
+      "owidVariableId": 817633,
+      "shortName": "pisa_reading_all_average",
+      "lastUpdated": "2023-12-06",
+      "nextUpdate": "2026-10-21",
+      "citationShort": "OECD (2023) – with minor processing by Our World in Data",
+      "citationLong": "OECD (2023) – with minor processing by Our World in Data. “PISA reading scores for all students” [dataset]. OECD, “PISA Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/817633.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-09-21",
+  "activeFilters": {}
+}
