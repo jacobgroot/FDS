@@ -1,1 +1,2 @@
 OECD (2023) – with minor processing by Our World in Data. “Average performance of 15-year-old students by subject” [dataset]. OECD, “PISA Database” [original data]. Retrieved September 21, 2026 from https://archive.ourworldindata.org/20260910-185311/grapher/academic-performance.html (archived on September 10, 2026).
+https://gain.nd.edu/our-work/country-index/methodology/
