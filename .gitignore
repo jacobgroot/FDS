@@ -1,2 +1,4 @@
 /FDS-other
 .DS_Store
+.vscode
+data/token_frequencies.csvdata/token_frequencies.csv
