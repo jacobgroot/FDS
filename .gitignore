@@ -2,3 +2,4 @@
 .DS_Store
 .vscode
 data/token_frequencies.csvdata/token_frequencies.csv
+data/share-of-electricity-generation-from-renewables.csv
