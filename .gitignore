@@ -1,5 +1,9 @@
 /FDS-other
 .DS_Store
+<<<<<<< HEAD
 .vscode
 data/token_frequencies.csvdata/token_frequencies.csv
 data/share-of-electricity-generation-from-renewables.csv
+=======
+.vscode
+>>>>>>> 2636715a533dee86211085a66c4f6bab281d7162
